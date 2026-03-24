@@ -26,5 +26,3 @@ This Salesforce-based Garage Management System manages appointments, vehicle ser
 ## Author
 Nishitha Rachapudi
 
-## Author
-Nishitha Rachapudi
